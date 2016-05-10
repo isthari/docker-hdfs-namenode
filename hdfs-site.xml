@@ -27,7 +27,7 @@
     </property>
     <property>
         <name>dfs.name.dir</name>
-        <value>/hadoop/namenode</value>
+        <value>${dfs.name.dir}</value>
     </property>
 </configuration>
 
