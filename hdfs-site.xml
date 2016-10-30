@@ -29,5 +29,9 @@
         <name>dfs.name.dir</name>
         <value>${dfs.name.dir}</value>
     </property>
+    <property>
+        <name>fs.permissions.umask-mode</name>
+        <value>0000</value>
+    </property>
 </configuration>
 
